@@ -2,5 +2,13 @@
   "name": "gql-server-mongo",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.3.0",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.26",
+    "nodemon": "^2.0.4"
+  }
 }
