@@ -7,7 +7,6 @@
     "apollo-server": "^2.16.1",
     "dotenv": "^8.2.0",
     "graphql": "^15.3.0",
-    "mongodb": "^3.5.9",
     "mongoose": "^5.9.26",
     "nodemon": "^2.0.4"
   }
